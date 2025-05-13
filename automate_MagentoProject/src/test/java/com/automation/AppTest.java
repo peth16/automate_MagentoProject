@@ -26,7 +26,7 @@ public class AppTest {
             WebDriver driver = new ChromeDriver(options);
 
             System.out.println("Navigating to Google...");
-            driver.get("https://int-connect.surewerx.com/en-us/");
+            driver.get("https://magento.softwaretestingboard.com/");
 
             System.out.println("Maximizing window...");
             driver.manage().window().maximize();
